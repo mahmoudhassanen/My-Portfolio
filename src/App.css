@@ -77,7 +77,8 @@ h4
 {
   color: var(--title-color);
   /* font-family: var(--second-font); */
-  font-family: cursive !important;
+  font-family: monospace !important;
+
   font-weight: var(--weight-700);
 }
 ul
@@ -142,7 +143,8 @@ img
   border: 1px solid var(--title-color);
   padding: 15px 70px 15px 35px;
   border-radius: 35px;
-  font-family: cursive !important;
+  font-family: monospace !important;
+
   font-size: var(--small-font-size);
   font-weight: var(--weight-500);
   position: relative;

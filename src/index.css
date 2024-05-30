@@ -233,7 +233,12 @@
    .form__input-group
    {
     grid-template-columns: 1fr !important;
+    margin-bottom: 10px !important;
    }
+   .form__control {
+   
+    margin-bottom: 20px !important;
+}
    .theme__img
    {
     width: 25px !important;
