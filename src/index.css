@@ -269,7 +269,7 @@
     } */
     .home__content{
         margin-block: auto !important;
-        text-align: left !important;
+        /* text-align: left !important; */
 
     }
     .home__title
